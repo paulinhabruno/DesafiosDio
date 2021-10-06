@@ -4,6 +4,7 @@ using System;
 //AINDA EM FASE DE RESOLUÇÃO
 //AINDA EM FASE DE RESOLUÇÃO
 //AINDA EM FASE DE RESOLUÇÃO
+
 public class Program
 {
 	public static void Main(string[] args)
@@ -18,3 +19,5 @@ public class Program
 		Console.WriteLine(quantidadePositivos + " valores positivos");
 	}
 }
+//AINDA EM FASE DE RESOLUÇÃO
+//AINDA EM FASE DE RESOLUÇÃO
