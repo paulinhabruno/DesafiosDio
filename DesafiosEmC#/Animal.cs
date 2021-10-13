@@ -17,13 +17,11 @@ using System.Text;
 
 class MainClass {
   public static void Main (string[] args) {
-        String  ; //declare as suas variaveis
-        String  ;
-        String  ;
+        String palavra1 = Console.ReadLine();  //declare as suas variaveis
+        String  palavra2 = Console.ReadLine(); 
+        String  palavra3 = Console.ReadLine(); 
 
-         = Console.ReadLine(); //insira suas variaveis
-         = Console.ReadLine();
-         = Console.ReadLine();
+         
 
       if (( ) && ( )  && ( )) {
       //complete o desafio
